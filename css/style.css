@@ -186,14 +186,6 @@ main {
     color: #fff;
 }
 
-footer {
-    display: flex;
-    justify-content: center;
-    font-size: 10px;
-    
-}
-
-
 @media screen and (max-width: 1330px) {
     .form-image {
         display: none;

@@ -1,7 +1,7 @@
 # Cadastro para noivos
 
-![preview](./.github/projeto.png)
-![preview](./.github/projeto2.png)
+![preview](./.github/project.jpg)
+
 
 
 > NovoConceito
