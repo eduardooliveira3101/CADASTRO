@@ -2,13 +2,13 @@
 
 ![preview](./.github/projeto.png)
 ![preview](./.github/projeto2.png)
-![preview](./.github/projeto3.png)
+
 
 > NovoConceito
 
 Projeto criado através de uma vídeo aula da Larissa Kich
 
-[🏷️Clique aqui para acessar]()
+[🏷️Clique aqui para acessar](https://eduardooliveira3101.github.io/CADASTRO/)
 
 ## 🛠️Tecnologias  utilizadas
 
